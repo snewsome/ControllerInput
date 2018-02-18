@@ -1,9 +1,0 @@
-C:\Users\shawn\Documents\GitHub\SharpDX-Samples\Desktop\DirectInput\JoystickApp\obj\Debug\JoystickApp.csprojResolveAssemblyReference.cache
-C:\Users\shawn\Documents\GitHub\SharpDX-Samples\Desktop\DirectInput\JoystickApp\bin\Debug\JoystickApp.exe
-C:\Users\shawn\Documents\GitHub\SharpDX-Samples\Desktop\DirectInput\JoystickApp\bin\Debug\JoystickApp.pdb
-C:\Users\shawn\Documents\GitHub\SharpDX-Samples\Desktop\DirectInput\JoystickApp\bin\Debug\SharpDX.DirectInput.dll
-C:\Users\shawn\Documents\GitHub\SharpDX-Samples\Desktop\DirectInput\JoystickApp\bin\Debug\SharpDX.dll
-C:\Users\shawn\Documents\GitHub\SharpDX-Samples\Desktop\DirectInput\JoystickApp\bin\Debug\SharpDX.xml
-C:\Users\shawn\Documents\GitHub\SharpDX-Samples\Desktop\DirectInput\JoystickApp\bin\Debug\SharpDX.DirectInput.xml
-C:\Users\shawn\Documents\GitHub\SharpDX-Samples\Desktop\DirectInput\JoystickApp\obj\Debug\JoystickApp.exe
-C:\Users\shawn\Documents\GitHub\SharpDX-Samples\Desktop\DirectInput\JoystickApp\obj\Debug\JoystickApp.pdb

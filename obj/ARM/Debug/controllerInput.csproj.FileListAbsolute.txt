@@ -1,6 +1,0 @@
-C:\Users\shawn\Documents\ControllerInput\controllerInput\obj\ARM\Debug\MainPage.g.i.cs
-C:\Users\shawn\Documents\ControllerInput\controllerInput\obj\ARM\Debug\MainPage.g.cs
-C:\Users\shawn\Documents\ControllerInput\controllerInput\obj\ARM\Debug\XamlTypeInfo.g.cs
-C:\Users\shawn\Documents\ControllerInput\controllerInput\obj\ARM\Debug\MainPage.xaml
-C:\Users\shawn\Documents\ControllerInput\controllerInput\obj\ARM\Debug\MainPage.xbf
-C:\Users\shawn\Documents\ControllerInput\controllerInput\obj\ARM\Debug\XamlSaveStateFile.xml
